@@ -6,7 +6,7 @@
 
 ### Cantrips
 
-<details open><summary><strong>Light</strong></summary><br>
+<details><summary><strong>Light</strong></summary><br>
 
 > **School**: Evocation<br>
 > **Level**: Cantrip<br>
@@ -21,7 +21,7 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 </details>
 
-<details open><summary><strong>Ray of Frost</strong></summary><br>
+<details><summary><strong>Ray of Frost</strong></summary><br>
 
 > **School**: Evocation<br>
 > **Level**: Cantrip<br>
@@ -36,7 +36,7 @@ The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level
 
 </details>
 
-<details open><summary><strong>Mage Hand</strong></summary><br>
+<details><summary><strong>Mage Hand</strong></summary><br>
 
 > **School**: Conjuration<br>
 > **Level**: Cantrip<br>
@@ -55,7 +55,7 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 ### Level 1
 
-<details open><summary><strong>Burning Hands</strong></summary><br>
+<details><summary><strong>Burning Hands</strong></summary><br>
 
 > **School**: Evocation<br>
 > **Level**: 1st<br>
@@ -72,7 +72,7 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 
 </details>
 
-<details open><summary><strong>Chromatic Orb</strong></summary><br>
+<details><summary><strong>Chromatic Orb</strong></summary><br>
 
 > **School**: XXX<br>
 > **Level**: XXX<br>
@@ -83,7 +83,7 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 
 </details>
 
-<details open><summary><strong>Identify</strong></summary><br>
+<details><summary><strong>Identify</strong></summary><br>
 
 > **School**: XXX<br>
 > **Level**: XXX<br>
@@ -94,7 +94,7 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 
 </details>
 
-<details open><summary><strong>Mage Armor</strong></summary><br>
+<details><summary><strong>Mage Armor</strong></summary><br>
 
 > **School**: XXX<br>
 > **Level**: XXX<br>
@@ -105,7 +105,7 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 
 </details>
 
-<details open><summary><strong>Sleep</strong></summary><br>
+<details><summary><strong>Sleep</strong></summary><br>
 
 > **School**: XXX<br>
 > **Level**: XXX<br>
@@ -116,7 +116,7 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 
 </details>
 
-<details open><summary><strong>Unseen Servant</strong></summary><br>
+<details><summary><strong>Unseen Servant</strong></summary><br>
 
 > **School**: XXX<br>
 > **Level**: XXX<br>
