@@ -1,2 +1,8 @@
 # dungeons-and-dragons
-D&D stuff
+
+Dungeons & Dragons resources.
+
+## PCs
+
+**Zanna Nyx**
+- [Spellbook](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/Zanna%20Nyx.md)
