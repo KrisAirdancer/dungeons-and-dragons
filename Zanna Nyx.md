@@ -151,4 +151,117 @@
 
 </details>
 
+<details><summary><strong>Magic Missile</strong></summary><br>
+
+> **School**: Evocation<br>
+> **Level**: 1st<br>
+> **Casting Time**: 1 action<br>
+> **Range**: 120 ft.<br>
+> **Components**: V, S<br>
+> **Duration**: Instantaneous<br>
+
+> You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+>
+> At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+
+</details>
+
+<details><summary><strong>Cure Wounds</strong></summary><br>
+
+> **School**: Evocation<br>
+> **Level**: 1st<br>
+> **Casting Time**: 1 action<br>
+> **Range**: Touch<br>
+> **Components**: V, S<br>
+> **Duration**: Instantaneous<br>
+
+> A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+>
+> At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+
+</details>
+
+### Level 2
+
+<details><summary><strong>Arcane Ward</strong></summary><br>
+
+> Starting at 2nd level, you can weave magic around yourself for protection. When you cast an abjuration spell of 1st level or higher, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a long rest. The ward has hit points equal to twice your wizard level + your Intelligence modifier. Whenever you take damage, the ward takes the damage instead. If this damage reduces the ward to 0 hit points, you take any remaining damage.
+>
+> While the ward has 0 hit points, it can't absorb damage, but its magic remains. Whenever you cast an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell.
+>
+> Once you create the ward, you can't create it again until you finish a long rest.
+>
+> PHB 115
+
+</details>
+
+### Level 3
+
+<details><summary><strong>Gaseous Form</strong></summary><br>
+
+> **School**: Transmutation<br>
+> **Level**: 3rd<br>
+> **Casting Time**: 1 action<br>
+> **Range**: Touch<br>
+> **Components**: V, S, M (a bit of gauze and a wisp of smoke)<br>
+> **Duration**: Concentration, up to 1 hour<br>
+
+> You transform a willing creature you touch, along with everything it’s wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn’t affected.
+>
+> While in this form, the target’s only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can’t fall and remains hovering in the air even when stunned or otherwise incapacitated.
+>
+> While in the form of a misty cloud, the target can’t talk or manipulate objects, and any objects it was carrying or holding can’t be dropped, used, or otherwise interacted with. The target can’t attack or cast spells.
+
+</details>
+
+<details><summary><strong>Lightning Bolt</strong></summary><br>
+
+> **School**: Evocation<br>
+> **Level**: 3rd<br>
+> **Casting Time**: 1 action<br>
+> **Range**: Self (100-foot line)<br>
+> **Components**: V, S, M (a bit of fur and a rod of amber, crystal, or glass)<br>
+> **Duration**: Instantaneous<br>
+
+> A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one.
+>
+> The lightning ignites flammable objects in the area that aren’t being worn or carried.
+>
+> At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+</details>
+
+### Level 4
+
+<details><summary><strong>Wall of Fire</strong></summary><br>
+
+> **School**: Evocation<br>
+> **Level**: 4th<br>
+> **Casting Time**: 1 action<br>
+> **Range**: 120 ft.<br>
+> **Components**: V, S, M (a small piece of phosphorus)<br>
+> **Duration**: Concentration, up to 1 minute<br>
+
+> You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.
+>
+> When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 5d8 fire damage, or half as much damage on a successful save.
+>
+> One side of the wall, selected by you when you cast this spell, deals 5d8 fire damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.
+>
+> At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
+</details>
+
+<details><summary><strong>Greater Invisibility</strong></summary><br>
+
+> **School**: Illusion<br>
+> **Level**: 4th<br>
+> **Casting Time**: 1 action<br>
+> **Range**: Touch<br>
+> **Components**: V, S<br>
+> **Duration**: Concentration, up to 1 minute<br>
+
+> You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person.
+
+</details>
+
 
