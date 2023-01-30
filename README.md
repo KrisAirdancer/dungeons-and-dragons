@@ -9,9 +9,9 @@ Dungeons & Dragons resources.
 ### PCs
 
 **Zanna Nyx**
-- [Spellbook](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/Zanna%20Nyx.md)
+- [Spellbook](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/zanna-nyx-spellbook.md)
 
 ## Other
 
-- [Dungeon Master's Notes](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/dungeon-master-lessons.md)
+- [Dungeon Master's Notes](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/dungeon-masters-notes.md)
 - [FAQ & Quick Reference](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/FAQ.md)
