@@ -82,9 +82,15 @@
 **Kobolds**
 - Quest 1 - Defeated
 
+## House Rules & Homebrew
+
+**Dragonborn Darkvision**
+- Dragonborn have Darkvision.
+- You can see in dim light within 60 feet of you as if it were bright light, and in Darkness as if it were dim light. You can’t discern color in Darkness, only Shades of Gray.
+
 ## The Log
 
-### Quest 4 - The Road to Eldor - January 30, 2023
+### Quest 4 - The Road to Eldor - January 29, 2023
 
 - Party spoke with Dr. Thistlewood about the inscription on the Door to Eldor: "For the Stone Eye of the Duergar, I Open"
   - Dr. Thistlewood surmised that the stone was one owned by Dr. Thrush.

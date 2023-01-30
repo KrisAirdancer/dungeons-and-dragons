@@ -1,8 +1,21 @@
-# Dungeon Master Lessons
+# Dungeon Master's Notes
 
 *Thing's I've learned as a DM
 
-**January 13, 2023**
+## January 29, 2023
+
+- More Roleplaying
+  - More interaction/action from DM's PCs (more conversations between Player PCs and DM PCs)
+- Have DMPCs explore the world a bit too - they don't just always follow the party around like automatons.
+- Players don't miss - the world get's in their way.
+  - The dice aren't the players, they are the world and the circumstances.
+  - The enemy dodged, a rock fell, someone moved out of the way due to something else and got lucky, etc.
+  - See Reddit posts
+- Better use of DMPCs to get players unstuck
+  - Have the DMPCs take actions to guide the party - don't just leave the party to figure it all out for themselves.
+  - Make suggestions, DMPCs can go do things to guide the party.
+
+## January 13, 2023
 
 - Vista would like Akra to be able to use her deception skills sometime.
 - Vista would like to fight some clever monsters.
@@ -10,7 +23,7 @@
 - Better quest endings/wrap up.
 - Better quest intros/hooks.
 
-**January 2, 2023**
+## January 2, 2023
 
 - Review this log before starting the quest to give a better summary of the previous quest.
 - Fill out the FAQ doc with questions we had during the quest to make them fast to find the next time we need them.
