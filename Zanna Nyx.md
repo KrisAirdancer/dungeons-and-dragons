@@ -53,6 +53,21 @@
 
 </details>
 
+<details><summary><strong>Mini Slime</strong></summary><br>
+
+> **School**: Abjuration<br>
+> **Level**: Cantrip<br>
+> **Casting Time**: 1 action<br>
+> **Range**: Self<br>
+> **Components**: V, S, M (something slimy)<br>
+> **Duration**: 8 hrs.<br>
+
+> The caster holds a small piece of something slimy in their hand, mutters an incantation, and passes their other hand over the top of the other. A small white slime cube 4-6 inches in size bubbles up out of the hand of the caster where the slimy material component rests. The slime has a movement speed of 5ft and has 0 HP and disappears if it takes any damage. The slime cannot attack.
+>
+> The slime is mostly just cute.
+
+</details>
+
 ### Level 1
 
 <details><summary><strong>Burning Hands</strong></summary><br>
