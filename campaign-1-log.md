@@ -1,5 +1,15 @@
 # Journey to the Center of Eldor (campaign 1) - Quest Log
 
+## Player Notifications
+
+- All
+  - Add one (1) Healer's Kit (PHB 151) to your inventories
+- Akra
+  - Your Elvish Rapier stats: 1d10 w/ Finesse
+  - Your Longsword stats: 1d8 w/ Versitle
+- Mei-Chi
+  - Your Longsword stats: 1d8 w/ Versitle
+
 ## Items Obtained
 
 **Quest 4**
@@ -8,7 +18,7 @@
 - Elvish Rapier
   - Found in the Scholar's Dungeon
   - In Akra's possession
-  - TODO: Stats
+  - 1d10 w/ Finesse
 - The Triangular Amulet of Eldor
   - Found in the Scholar's Dungeon
 - Slime Cantrip Spellbook
@@ -16,7 +26,7 @@
   - In Zanna's possession
 - Two Longswords and Two Full Shields
   - Found in The Armour Room
-  - TODO: Stats
+  - Longswords: 1d8 w/ Versitile
   - Taken by Akra and Mei-Chi
 
 **Quest 3**
@@ -34,17 +44,43 @@
 ## Locations Visited
 
 **The Stronghold of Eldor**
-- TODO
-  - List off important locations within the stronghold (The Door to Eldor, Room with Stone Pillars, etc.)
+- An old stronghold of crubmbling stone perched atop a rocky outcrop North of Faror. Surrounded by dense diciduous forests and flanked to the South by a large meadow.
+- Locations:
+  - Scholar's Dungeon: A series of low cobblestone rooms with low ceilings. Mostly ravaged by rats.
+  - Mosaic Tunnel: A large round tunnel covered in gleaming tile mosaics.
+  - Armour Room: A long rectangular room lined with suits of armour.
+  - Pillar Room: A large circular room with three strange pillars and a domed ceiling covered in a large tile mosaic.
+- Visited on:
+  - Quest 4: Opened the Door of Eldor
+    - Discovered the Mosaic Tunnel, Armour Room, Scholar's Dungeon, and Pillar Room
+  - Quest 3: Fought a Giant Spider and discovered the Door of Eldor
 
 **Faror**
-- TODO
+- A small city located at the bottom of a lush valley of pine and disiduous forests. The light stone and thatched roof buildings are hidden amongst the dense ferns and trees.
+- Located in the Eastern part of the Province of Virimor
+- Home of the Faror University of Magic.
+  - Dr. Thistlewood's office is here.
+- Visited on:
+  - Quest 3: Arrived from Northford/Frita
+    - Met Zanna
+    - Did some shopping
+  - Quest 4: Homebase while exploring the Stronghold of Eldor
 
 **Frita**
-- TODO
+- A large city of tudor and coblestone houeses and thatched rooves tightly packed inside tall cobblestone walls to protect from occasional goblin and orc raids. Surrounded by miles of farmland.
+- In the center of the Province of Virimor
+- Visited on:
+  - Quest 3: Traveled through on the way from Northford to Faror
+    - Did some shopping
 
 **Northford**
-- TODO
+- A small town of cobblestone and Tudor houses and thatched rooves tucked into the dense pine forests of Northern Virimor.
+- In the Northern part of the Province of Virimor
+- Silver's Inn:
+  - A good place to stay the night
+- Visited on:
+  - Quest 2: Met Santa on Christmas and recovered his sleigh
+  - Quest 1: Met Daniel Fletchy and recovered his stolen gold from Kobolds
 
 ## NPCs
 
@@ -69,7 +105,11 @@
   - Working to translate the Book of Eldor for the Party
 
 **Dr. Thrush**
-- TODO
+- Gnome, Wizard
+- From Faror
+- Archaeologist at the Faror University of Magic
+- History/Background
+  - Lent the party the Eye of the Duergar
 
 ## Monsters Encountered
 

@@ -2,6 +2,11 @@
 
 *Thing's I've learned as a DM
 
+## Sticky
+
+- "If you're spending more time prepping than your players spend playing a quest, you're spending too much time on prep." - TODO: Citation
+- "Prep as little as possible." - TODO: Citation
+
 ## January 29, 2023
 
 - More Roleplaying
@@ -17,8 +22,8 @@
 
 ## January 13, 2023
 
-- Vista would like Akra to be able to use her deception skills sometime.
-- Vista would like to fight some clever monsters.
+- Akra would like Akra to be able to use her deception skills sometime.
+- Akra would like to fight some clever monsters.
   - She tried to trip the giant spider they fought with some rope.
 - Better quest endings/wrap up.
 - Better quest intros/hooks.
