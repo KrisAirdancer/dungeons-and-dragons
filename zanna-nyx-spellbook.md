@@ -2,7 +2,7 @@
 
 ## Spells
 
-[D&D Beyond - Spells](https://www.dndbeyond.com/sources/basic-rules/spells)
+[D&D Beyond - Wizard Spells](https://www.dndbeyond.com/sources/basic-rules/spells#WizardSpells)
 
 ### Cantrips
 

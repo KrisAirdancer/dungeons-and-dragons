@@ -1,11 +1,29 @@
 # D&D FAQ & Quick Reference Sheet
 
+## Resources
+
+- [D&D Beyond - Basic Rules](https://www.dndbeyond.com/sources/basic-rules)
+- [D&D Beyond - Spells](https://www.dndbeyond.com/sources/basic-rules/spells)
+
 ## Weapons & Combat
 
 - **Finesse** (PHB 147):
   - When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 - **Versitile** (PHB 147):
   - This weapon can be used with one or two hands. A damage value in parentheses appears with the property - the damage when the weapon is used with two hands to make a melee attack.
+
+## Leveling
+
+- **Character Level vs Class Level**:
+  - For the most part character level == class level.
+  - Unless you are multiclassing, these two levels should be the same.
+
+## Spellcasting - Wizards
+
+- **Number of Prepared Spells**:
+  - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook **equal to your Intelligence modifier + your wizard level** (minimum of one spell). The spells must be of a level for which you have spell slots.
+  - For example, if you’re a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+  - [Source](https://www.dndbeyond.com/sources/basic-rules/classes#PreparingandCastingSpells4)
 
 ## Other
 
