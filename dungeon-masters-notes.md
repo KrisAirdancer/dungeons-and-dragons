@@ -4,8 +4,8 @@
 
 ## Sticky
 
-- "If you're spending more time prepping than your players spend playing a quest, you're spending too much time on prep." - TODO: Citation
-- "Prep as little as possible." - TODO: Citation
+- "If you're spending more time prepping than your players spend playing a quest, you're spending too much time on prep." - Unkown
+- "Prep as little as possible." - Unkown
 
 ## January 29, 2023
 

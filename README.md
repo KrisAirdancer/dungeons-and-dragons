@@ -1,11 +1,19 @@
-# dungeons-and-dragons
+# Dungeons & Dragons
 
-Dungeons & Dragons resources.
+## Agrifell
 
-## Journey to the Center of Eldor (campaign 1)
+- [World Lore]()
 
-- [Campaign Log](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/campaign-1-log.md)
+## Other
 
+- [FAQ & Quick Reference](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/FAQ.md)
+
+# Past Campaigns
+
+## Journey to the Center of Eldor
+
+- [Campaign Log](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/campaign-log-journy-to-the-center-of-eldor.md)
+  
 ### PCs
 
 **Zanna Nyx**
@@ -14,4 +22,3 @@ Dungeons & Dragons resources.
 ## Other
 
 - [Dungeon Master's Notes](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/dungeon-masters-notes.md)
-- [FAQ & Quick Reference](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/FAQ.md)
