@@ -1,6 +1,33 @@
 # Campaign Log (C001)
 
 ## Quest 2 (June 18, 2023)
+
+**Locations**
+- The Cultist's Camp.
+  - A small camp East of Middleburry in the Stonewood forest.
+- Middleburry
+  - A smallish town of tudor and thatched roof houses West off the South Road two days travel North from Silvergate.
+  - A small river runs through the center of the town.
+- Middleburry Inn
+  - A two story tudor and thatched roof building right on the river in the center of Middleburry.
+- John & Hannah Bris' house.
+  -  A small one story tudor and thatched roof home in East Middleburry.
+
+**NPCs**
+- John (Member of the True Cult of the Raven)
+- James (Member of the True Cult of the Raven)
+- Raff Quill
+- Tanner Ginn
+- Hannah Bris
+- John Briss
+- David Chath
+
+**Items**
+- Two sets of purple robes and white sashes of the True Cult of the Raven.
+- A small raven pin.
+- The Amulet of Light
+
+**Notes**
 - The party resumed play immediately after defeating the skeletons fighting the cultists in the forest.
   - After the fight, the party realized that Ea was missing.
 - The party followed the drag marks in the mud until they came across a pin with a raven head on it in the mud.

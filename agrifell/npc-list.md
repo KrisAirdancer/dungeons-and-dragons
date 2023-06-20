@@ -9,10 +9,10 @@
   - Resident of Middlebury.
   - Party rescued her from the Cult of the Raven (rouge faction).
 - Raff Quill
-  - Leader of the Cult of the Raven (rouge faction).
+  - Leader of the True Cult of the Raven.
   - Killed by Mara in the Stonewood forest East of Middleburry while stealing the Amulet of Light.
 - Tanner Ginn
-  - Second in command of the Cult of the Raven (rouge faction).
+  - Second in command of the True Cult of the Raven.
 - David Chath
   - Merchant from Middleburry.
   - Rescued from the Cult fo the Raven by the party.
