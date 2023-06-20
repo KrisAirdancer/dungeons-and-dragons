@@ -7,8 +7,22 @@
 - "If you're spending more time prepping than your players spend playing a quest, you're spending too much time on prep." - Unkown
 - "Prep as little as possible." - Unkown
 
-## January 29, 2023
+## June 18, 2023
+- Positive Feedback
+  - Fun attacks and roleplays were good.	
+  - Made the roleplays back and forth and had the adversaries challenge the PCs a bit with dialogue with additional roles. But the talking back and forth even without roles was good.	
+  	- Not everybody was persuaded.
+  - Tying past story points in (Hannah Bris the missing wife).	
+  - Sharing the map was good.	
+  - Discouraging bad choices was good.	
+  - Mix of theatre of the mind and visual maps was good.	
+  - A mix of different things like combat and roleplay was good.	
+- Negative Feedback
+  - Determine when to roll vs when not to roll for success on outcomes.
+    - That is, when the party or a PC (or even an NPC) is trying to do something, decide whether or not I am okay with a positive or negative outcome in terms of what will make the game the most enjoyable and make for the best story (and even what makes the most sense for the story as it is currently playing out). If I'm not okay with one of the possible outcomes of a roll, make the decision about the outcome myself and just tell them what happens. If I want the element of unpredictability in there, have them roll.
+    - But make the decision of whether to roll or not and then stick with it.
 
+## January 29, 2023
 - More Roleplaying
   - More interaction/action from DM's PCs (more conversations between Player PCs and DM PCs)
 - Have DMPCs explore the world a bit too - they don't just always follow the party around like automatons.
@@ -21,7 +35,6 @@
   - Make suggestions, DMPCs can go do things to guide the party.
 
 ## January 13, 2023
-
 - Akra would like Akra to be able to use her deception skills sometime.
 - Akra would like to fight some clever monsters.
   - She tried to trip the giant spider they fought with some rope.
@@ -29,7 +42,6 @@
 - Better quest intros/hooks.
 
 ## January 2, 2023
-
 - Review this log before starting the quest to give a better summary of the previous quest.
 - Fill out the FAQ doc with questions we had during the quest to make them fast to find the next time we need them.
 - Think about character interactions a bit more before the quests.
