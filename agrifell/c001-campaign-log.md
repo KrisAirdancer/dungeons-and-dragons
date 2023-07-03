@@ -1,5 +1,63 @@
 # Campaign Log (C001)
 
+As always, if I missed anything, let me know or make a PR.
+
+## Quest 3 (July 3, 2023)
+
+**Locations**
+- Middleburry
+  - A small town of Tudor and thatched roof houses surrounded by forest. A small castle, the Middleburry Castle, stands on a hill in West Middleburry.
+- The Cultist's Camp
+  - A now deserted campsite in the woods a few miles East of Middleburry.
+- Red Creek Stronghold
+  - A small fortress of only two stories and the ramparts that has long since been abandoned.
+  - The basement contained some wooden tables covered in illegible notes and a few pages torn from a book depicting dark magic; an obsidian obelisk floating in the corner; and a very angry giant bear skeleton.
+- Middleburry Castle Library
+  - A small but well kept library in the Middleburry Castle.
+
+**NPCs**
+- Bradley Mills - Three Towns Militia Man
+- Evan Brunn - Three Towns Militia Man
+- Lauren Evans - Three Towns Council Chair
+  - Offered the party assistance in their quest to get rid of the undead.
+- Parker Calliwell - Three Towns Council Hand
+
+**Items**
+- Pages torn from a book found in the Red Creek Stronghold:
+  - One page contains an image depicting a dark cloaked figure connected to three black floating obelisks via a dark energy. In front of the obelisks are many white ghastly bodies rising from the dead.
+  - The other page depicts a group of black-cloaked worshipers bowed before a great red winged demon. White spirits are being drawn from their bodies toward the demon who, himself, is casting a spell of silvery light onto the worshipers. Above the image are the words: "Endless life for those who follow the great Lord Razon"
+- A small stone tablet with a map on one side from John Bris.
+  - It appears to be showing the way from Basalt to some location Northwest of the town marked by a worn set of arched lines.
+  - John says he tracked the route to an set of half-buried obelisks with strange symbols on them. He wasn't able to find anything himself, but hopes the party might be able to.
+
+**Summary**
+- The party was met in the morning by John Bris in the Middleburry Inn where the party spent the night.
+  - He gifted them a stone tablet with a map on the back.
+- The party then attended the council meeting, also held in the Middleburry Inn.
+  - The council offered the party assistance in their quest to get rid of the undead.
+    - The party requested some room and board and the council obliged.
+  - They don't have anything to reward the party with currently since the undead have driven business off from the town and they've been relying on their nearly depleted reserve gold to sustain themselves.
+  - The party handed the two cultists in their tow off to the town militia to be imprisoned in the Middleburry jail.
+- The party took a couple of Militia Men to the site of the cultist camp and discovered that the camp had been hastily deserted and the body of Raff Quill had been taken.
+- The party was shown a map in the Middleburry Castle Library. It showed the locations of,
+  - The Red Creek Stronghold
+  - The White River Fortress (8 miles North)
+  - Stonewood Watch (50-60 miles Northwest)
+    - Best accessed from the South Road (only a few miles off the West side of the road)
+  - The East Tower (10 miles Southeast)
+  - Stonehold (10 miles South)
+- The party sent Niko into the fog, tied to a rope for easy recall, along with the amulet of light.
+  - The fog cleared around him and kept the undead at bay as he walked.
+  - This venture lasted only a minute or so before the undead took hold of the rope and started pulling Niko around.
+  - The party pulled Niko and three undead out of the fog and quickly vanquished the three undead.
+- After the close call, the party traveled as a group into the fog until they reached the Red River Stronghold.
+  - Here, they attempted to clear out the building, but were unsuccessful as they had nothing to bar the front door with and undead continued to enter.
+  - Upon searching the basement, the party discovered a very angry giant bear skeleton that got stuck at the bottom of the stairwell. After a quick discussion about what to do, Ea cast a Moonlight spell that ended up disintegrating the bones of the undead bear, causing it to collapse into a pile.
+  - In the basement, the party discovered some tables covered in unintelligible notes and a couple of pages ripped from a book (see Items above) and a 2-3 foot tall shard of obsidion-like stone floating in the corner emitting a silvery white glow and a black fog that sunk to the ground around it.
+  - Niko and Mara were able to put their heads together and recall that they'd learned in their studies about a dark spell that can be cast using shards of obsidian from Shadowfell, the Plane of Shadow, to create obelisks that can be used by the caster to amplify their power and control large numbers of the undead.
+- After another deliberation, the party decided to head back to Middleburry to determine the best way to handle the obelisk that they believed to be the thing that is animating the dead.
+- By the time the party returned to Middleburry, it was past dusk and they turned in for the night at the Middleburry Inn.
+
 ## Quest 2 (June 18, 2023)
 
 **Locations**
@@ -27,7 +85,7 @@
 - A small raven pin.
 - The Amulet of Light
 
-**Notes**
+**Summary**
 - The party resumed play immediately after defeating the skeletons fighting the cultists in the forest.
   - After the fight, the party realized that Ea was missing.
 - The party followed the drag marks in the mud until they came across a pin with a raven head on it in the mud.
