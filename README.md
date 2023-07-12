@@ -4,7 +4,6 @@
 
 - [Campaign Log](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/agrifell/c001-campaign-log.md)
 - [World Lore](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/agrifell/agrifell-world-lore.md)
-- [NPCs](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/agrifell/npc-list.md)
 
 ## Other
 

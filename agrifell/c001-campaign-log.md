@@ -2,6 +2,33 @@
 
 As always, if I missed anything, let me know or make a PR.
 
+## Quest 4 (July 8, 2023)
+
+**Locations**
+- Red Creek Stronghold
+- White River Stronghold
+- Middleburry
+
+**NPCs**
+- Oscar Ward - Middleburry castle librarian
+- Liam Ort - Owner & Inkeep of the Middleburry Inn
+
+**Items**
+- A page torn from a book that depicts an urn drawn with ghostly figures pouring out of it and into the hands of the Demon Lord Razon. The holder of the urn is surrounded by dead bodies.
+  - Found in the White River Stronghold on a table near the obelisk.
+- A small jar (8 inches tall, 4 inches wide) with a green gelatinous cube inside that appears to dissolve anything you feed it.
+
+**Summary**
+- The party began by doing some research into how to destroy the obelisk in the Red Creek Stronghold.
+  - After searching the Middleburry library, they discovered that they could probably just smash it.
+- The party returned to the Red Creek Stronghold and fired an arrow at the obelisk there. It broke the obelisk and the fog was lifted. Many undead could be seen dead on the ground in the surrounding area after the fog faded.
+- The party then traveled to the edge of the fog in the North, just South of the White River Stronghold. Here, they spent an uneventful night around the fire before venturing into the fog once again.
+- Upon reaching the White River Stronghold, the party discovered a room full of ghouls (different from the undead and skeletons walking around).
+- After a fight with 4 ghouls wherein Ea and Mara took some nasty hits from the ghouls' claws, the party explored the room.
+- In the room they found another obelisk, which they quickly dispatched with another arrow from Niko's crossbow. The fog in the area was lifted and more undead could be found, now dead, lying about.
+- Searching the room revealed another page torn from a book and a jar with a tiny green gelatinous cube in it.
+- At this point, the party returned to the Middleburry Inn.
+
 ## Quest 3 (July 3, 2023)
 
 **Locations**
@@ -75,10 +102,21 @@ As always, if I missed anything, let me know or make a PR.
 - John (Member of the True Cult of the Raven)
 - James (Member of the True Cult of the Raven)
 - Raff Quill
+  - Leader of the True Cult of the Raven.
+  - Killed by Mara in the Stonewood forest East of Middleburry while stealing the Amulet of Light.
 - Tanner Ginn
+  - Second in command of the True Cult of the Raven.
 - Hannah Bris
+  - Wife of John Bris
+  - Resident of Middlebury.
+  - Party rescued her from the Cult of the Raven (rouge faction).
 - John Briss
+  - Husband of Hannah Bris.
+  - Resident of Middleburry.
+  - Met while investigating the whereabouts of the people that were rumoured to be missing.
 - David Chath
+  - Merchant from Middleburry.
+  - Rescued from the Cult fo the Raven by the party.
 
 **Items**
 - Two sets of purple robes and white sashes of the True Cult of the Raven.

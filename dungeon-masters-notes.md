@@ -7,6 +7,31 @@
 - "If you're spending more time prepping than your players spend playing a quest, you're spending too much time on prep." - Unkown
 - "Prep as little as possible." - Unkown
 
+## July 8, 2023
+- Combat descriptions were much better this time.
+  - But could be more diverse in the descriptions of the types of attacks (mix up how the attacks happen and how the attacks are made)
+- Better scene descriptions.
+  - Better descriptions especially of things that can be interacted with.
+  - Ex. There’s a door and it is open, descriptions while traveling, etc.
+- Getting another person to play with would be a big plus.
+- Give the NPCs (especially Niko) more personality.
+
+## July 3, 2023
+- Theatre of the mind combat was good.
+  - A mix of maps and non-maps for combat was more immersive in some situations.
+- Stories were good. Roleplay was good.
+- More guidance would have been better.
+  - Wasn’t sure which clue to follow first.
+- Did better playing Niko in terms of roleplay and decision making with Vista (The PCs).
+  - That is, the Party-NPC to PC interaction was better.
+- The open world would have been good for a bigger group of players.
+  - One player makes the open world system a bit harder.
+  - It is easier to have more guidance as a single player.
+- I personally thought it added more suspense and realism to the game to not tell the party when they killed something.
+  - They get a description of what happened (the zombie collapses to the ground), but I don’t tell them that “it died.”
+  - Thus, they are left wondering if they’ve finished it off or not.
+  - Over the long run, they’ll get good at knowing what’s dead and what’s not, but this is an easy way to add some extra interest, realism, and suspense to the game.
+
 ## June 18, 2023
 - Positive Feedback
   - Fun attacks and roleplays were good.	
