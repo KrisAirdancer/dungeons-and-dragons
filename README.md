@@ -16,4 +16,4 @@
 - [Campaign Log](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/journy_to_the_center_of_eldor/campaign-log-journey-to-the-center-of-eldor.md)
   
 ### PCs/NPCs
-- Zanna Nyx [Spellbook](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/journy_to_the_center_of_eldor/zanna-nyx-spellbook.md)
+- Zanna Nyx [Spellbook](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/archive/journy_to_the_center_of_eldor/zanna-nyx-spellbook.md)
