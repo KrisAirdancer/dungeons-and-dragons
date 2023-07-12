@@ -7,6 +7,7 @@ As always, if I missed anything, let me know or make a PR.
 **Locations**
 - Red Creek Stronghold
 - White River Stronghold
+  - A small fortress built into the side of a hill next to the White River.
 - Middleburry
 
 **NPCs**
