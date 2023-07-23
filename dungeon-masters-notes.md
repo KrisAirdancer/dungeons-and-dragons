@@ -7,6 +7,22 @@
 - "If you're spending more time prepping than your players spend playing a quest, you're spending too much time on prep." - Unkown
 - "Prep as little as possible." - Unkown
 
+## July 23, 2023
+- Only send the party to places where there is something that they need to do there.
+- Also, make sure clues are clear.
+  - Think through the clues you are giving. Make sure they point clearly to the thing that you are trying to direct the party's attention to.
+  - If clues point to something, expect the party to explore it. So be careful not to put too much focus on clues that are tangential.
+  - Ex. Sending the party to Shadowfell and giving them a box of exploring gear, didn't make sense with where the plot was going. They didn't need to visit Shadowfell, but all of those clues indicated that they should explore it. I should have had the clues I dropped point elsewhere to get the party the plot points and materials that they needed.
+  - Trapping the party in also made it seem more like the party should stay in Shadowfell.
+- Make sure to make it clear why the party will need a thing. It was not made clear why the party would need the vial of golden liquid before or after they found it. It was just a thing in a box, not something valuable.
+- Provide better summaries.
+  - While it is necessary to make the information in the quests clear enough to the party, it is also necessary to provide the party with a solid recap of the last quest before beginning.
+  - The DM should make sure to touch on all of the events that happened and the items that were found that they want to make sure the party remembers.
+- Provide the description that you want to make sure the party gets.
+  - Don't expect the party to search everything or ask for a description of everything.
+  - The party should only have to search for things that are clues.
+  - If it isn't a clue or if it is something that is in plain sight, the Shadowfell symbols on the obelisks for example, then the DM should simply describe those to the party.
+
 ## July 8, 2023
 - Combat descriptions were much better this time.
   - But could be more diverse in the descriptions of the types of attacks (mix up how the attacks happen and how the attacks are made)

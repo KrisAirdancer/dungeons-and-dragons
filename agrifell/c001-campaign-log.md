@@ -2,6 +2,59 @@
 
 As always, if I missed anything, let me know or make a PR.
 
+## Quest 5 - Part 1 (July 23, 2023)
+
+**Locations**
+
+- Middleburry
+- Basalt
+  - A small town of black shale buildings North of Middleburry. On the Northeast side of town sits a shale quarry.
+  - Basalt Inn
+    - A small log and shale building adorned with iron fixtures in Basalt.
+- The Stonewood Watch
+  - A small tower fortress Northwest of Basalt.
+- Shadowfell via Basalt Entrance
+  - The Plane of Shadow. Home to creatures and magic of a fearful sort.
+  - Ghoul City
+    - An old dwarven city now overrun by Ghouls. Dwarven magic still lights the city.
+
+**NPCs**
+
+- Liam Ort - Owner & Inkeep of the Middleburry Inn
+- Miscellaneous townsfolk in Middleburry and Basalt
+
+**Items**
+
+- Shadowfell Chest Contents
+  - 10gp
+  - A small oil lamp with a glass shield protecting the flame port.
+  - A small vial of golden liquid that emits a faint light. Attached is a note with the words, “May your blade protect you from the darkness of Shadowfell.”
+
+**Summary**
+
+- The party departed from the Middleburry Inn and headed to the point on the tablet given to them by John Briss. Upon arrival, the party found three stone obelisks arranged in a circle. In the middle of the circle of obelisks, a hole had been dug to something underneath.
+- The party made their way into the hole and found a small round cobblestone room with a door opposite them. The door was a stone door with the stone slab that closes it pushed to the side. On the right side of the room was an old skeleton clutching a chest containing the items detailed above.
+  - Ea recalled that she had read about such potions. They provide a range of effects when applied to physical objects, such as weapons, than can include increased accuracy, damage, range, protection against magic or other environmental effects, etc.
+  - The party applied the potion to Akra's rapier, Niko's battle axe, and 4 of Niko's arrows.
+- The party could sense a dark and chilling energy coming from beyond the door, but could not sense what it was.
+- After a moment of deliberation, the party traveled ito the passage beyond the door - an ~15ft wide and tall tunnel with cobblestone floors.
+- After a short descent, they tunnel turned into a walkway along the edge of a large cavern, at the bottom of which the party could see a town/city alight with a magical red-yellow glow that they surmised to be dwarven magic. The town was populated by hundreds of ghouls.
+- The party then turned back.
+- When trying to crawl back out of the tunnel from the small room to the surface, someone dropped some fireworks into the hole and backfilled it.
+  - The fireworks attracted the ghouls and the party barricaded themselves in the small room.
+  - From here, the party dug their way back out.
+- After reaching the surface, the party found that ravens had been painted on the three obelisks with red paint.
+- The party followed the footsteps in the dirt and mud back to Basalt where people in town said that they had seen some people in purple cloaks hurrying through town towards Middleburry.
+- The party traveled to Middleburry where they heard that people had seen the same group of four cloaked people hurrying down the road towards the South Road. A merchant said they had seen the four people head off the North side of the road a few miles out of town.
+- The party chose to stay the night in the Basalt Inn instead of chasing the cloaked people.
+- In the morning, the party got news that someone had painted a large red raven onto the front doors of the Middleburry Inn.
+- The party traveled to the Stonewood Watch.
+- At the Stonewood Watch, the party was accosted by a black cloaked figure with sunken pale skin. The figure attempted to stay in the fog and cast spells at the party.
+  - The party was able to defeat the cloaked figure.
+  - During the fight, Akra stabbed the figure with her rapier and saw an image, a flashback of sorts, of someone collecting obsidan from around an obelisk with a demon etched into it.
+  - When dealing the final blow to the cloaked figure, Niko's battle axe caused the entire head of the creature to dissolve into a golden light.
+- We left off here because it was getting late...
+
 ## Quest 4 (July 8, 2023)
 
 **Locations**
