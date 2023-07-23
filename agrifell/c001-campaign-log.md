@@ -28,6 +28,7 @@ As always, if I missed anything, let me know or make a PR.
 - Shadowfell Chest Contents
   - 10gp
   - A small oil lamp with a glass shield protecting the flame port.
+  - A small gold ring.
   - A small vial of golden liquid that emits a faint light. Attached is a note with the words, “May your blade protect you from the darkness of Shadowfell.”
 
 **Summary**
