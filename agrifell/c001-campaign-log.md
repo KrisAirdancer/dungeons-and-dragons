@@ -2,7 +2,7 @@
 
 As always, if I missed anything, let me know or make a PR.
 
-## Quest 5 - Part 1 (July 23, 2023)
+## Quest 5 (July 23, 2023)
 
 **Locations**
 
