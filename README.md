@@ -1,6 +1,6 @@
 # Dungeons & Dragons
 
-[General Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdqjFd6YR5BxrXzljFAnUNHNwyXYRNgQ2OhBuo9yt7q117ZPA/viewform?usp=sf_link)
+[General Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdqjFd6YR5BxrXzljFAnUNHNwyXYRNgQ2OhBuo9yt7q117ZPA/viewform?usp=sf_link)
 
 [Quest Feedback](https://github.com/KrisAirdancer/dungeons-and-dragons/blob/main/feedback.md)
 
